@@ -4,6 +4,7 @@ Bem-vindo ao **Projeto 4**! Este repositório foi criado para demonstrar o domí
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![GitHub Features](https://img.shields.io/badge/GitHub-Wiki_%7C_Issues_%7C_Projects-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Status](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)](https://github.com/)
 
 ## 📝 Sobre o Projeto
 
